@@ -1,3 +1,7 @@
-#### IN ACTION
+# Job Tabs
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Tab application built in react js
+
+Click [here](https://jobs-tabs.netlify.app) to visit application
+
+Dennis Githinji 👍
